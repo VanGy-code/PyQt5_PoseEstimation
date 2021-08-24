@@ -2,6 +2,8 @@
 
 A PoseEstimation Application Demo Based On PyQt5
 
+Apply an awesome chat bubble
+
 ## Process
 
 - [x] Advise area based on chat bubble
